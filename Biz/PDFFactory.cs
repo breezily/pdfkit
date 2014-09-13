@@ -7,6 +7,9 @@ using iTextSharp.text.pdf;
 
 namespace PDFToolz
 {
+    /// <summary>
+    /// 真不好说
+    /// </summary>
     public class PDFFactory
     {
         private readonly List<PdfSegment> documents;
