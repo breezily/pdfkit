@@ -6,5 +6,6 @@ namespace PdfKit
 {
     class Class1
     {
+        //Add some comments
     }
 }
